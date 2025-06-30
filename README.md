@@ -55,3 +55,5 @@ If you find this work useful for your research, please consider citing our paper
   year={2025}
 }
 ```
+
+We borrow the code from [SIPE]([https://github.com/Wu0409/HSC_WSSS](https://github.com/chenqi1126/SIPE)) and [CLIP-ES](https://github.com/linyq2117/CLIP-ES) , Thanks for their excellent work. 
