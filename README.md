@@ -2,7 +2,7 @@
 
 The implementation of POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation,  CVPR 2025.
 
-(/assets/img/philly-magic-garden.jpg "Magic Gardens")
+(\Figure2.jpg)
 
 ### Abstract
 
