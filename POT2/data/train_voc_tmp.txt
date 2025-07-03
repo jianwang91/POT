@@ -1,4 +1,0 @@
-/JPEGImages/2009_005236.jpg /SegmentationClassAug/2009_005236.png
-/JPEGImages/2009_005236.jpg /SegmentationClassAug/2009_005236.png
-/JPEGImages/2009_005236.jpg /SegmentationClassAug/2009_005236.png
-/JPEGImages/2009_005236.jpg /SegmentationClassAug/2009_005236.png
