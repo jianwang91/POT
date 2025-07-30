@@ -23,7 +23,7 @@ Weakly Supervised Semantic Segmentation (WSSS) leverages Class Activation Maps (
 
   Following the previous method, CLIP-ES to prepare the dataset and base CAM npy files, [CLIP-ES]:(https://github.com/linyq2117/CLIP-ES), or directly download the CAM npy files here:(cams.zip
 : https://pan.baidu.com/s/1S0lzyInvYD4FtxKKLAuepQ?pwd=mn2p Code: mn2p), (cams.zip
-(Google Drive): https://drive.google.com/file/d/1NCXf4ZHfdpD1yVoIaoIJS-rXsk-8i71E/view?usp=sharing)
+(Google Drive): https://drive.google.com/file/d/1NCXf4ZHfdpD1yVoIaoIJS-rXsk-8i71E/view?usp=sharing), (cam visual images for comparison: https://drive.google.com/file/d/1OanoQypkbhWry6PhvC1qBK7D0siWQdRr/view?usp=sharing)
 
 #### Step 2. Train POT
 
